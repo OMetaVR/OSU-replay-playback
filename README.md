@@ -1,6 +1,12 @@
+<div align="center">
+
 # OSU Replay Player
 
-A simple, Python-based osu! replay player with basic mod support.
+A simple, Python-based osu! replay player with basic mod support
+
+![Preview](preview.gif)
+
+</div>
 
 ## Description
 
