@@ -4,7 +4,7 @@
 
 A simple, Python-based osu! replay player with basic mod support
 
-![Preview](preview.gif)
+<img src="preview.gif" alt="Preview" width="800">
 
 </div>
 
