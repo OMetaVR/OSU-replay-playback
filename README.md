@@ -78,4 +78,4 @@ pip install pygame osrparse fuzzywuzzy
 
 ## Disclaimer
 
-This project is not affiliated with or endorsed by osu! or ppy Pty Ltd. It is an unofficial, fan-made tool created for educational and experimental purposes only. Use of this tool may violate the osu! terms of service. Use at your own risk.
+This project is not affiliated with or endorsed by osu! or ppy Pty Ltd. It is an unofficial, AI-generated tool created for educational and experimental purposes only, to experiment with how close AI could, get with a one shot prompt, to a replay player, of Osu! replays. Use of this tool may violate the osu! terms of service. Use at your own risk.
